@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1086214759496",
+    "firebase_url": "https://nlcg2025-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nlcg2025",
+    "storage_bucket": "nlcg2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086214759496:android:68d76add736bf33971647d",
+        "android_client_info": {
+          "package_name": "com.choya.farm.nlcg.pixel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086214759496-7n4teuu7spbbvqd94rcaf7fe58o3k3gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuP-8Fjc8OiUD4XRracV9hyJYG53iuLB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086214759496-7n4teuu7spbbvqd94rcaf7fe58o3k3gp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1086214759496-bdfgl90j8nd6ghh2a8fhucdb44349m2q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.daonq.farm.nlcg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
